@@ -14,6 +14,7 @@ type
     Label1: TLabel;
     Label2: TLabel;
     Button2: TButton;
+    Button3: TButton;
     //function AnsiUppercase(const s:string):string;
     procedure Button1Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
